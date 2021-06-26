@@ -1,6 +1,2 @@
 This is me.
 
-<<<<<<< HEAD
-Add a new line
-=======
->>>>>>> parent of 21e53c6... second update
